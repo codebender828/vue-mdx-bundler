@@ -1,6 +1,6 @@
 {
   "name": "@codebender828/vue-mdx-bundler",
-  "version": "0.0.0-alpha.0",
+  "version": "0.0.1-alpha.0",
   "author": {
     "name": "Jonathan Bakebwa",
     "email": "codebender828@gmail.com"
@@ -46,7 +46,6 @@
     "uvu": "^0.5.1",
     "watchlist": "^0.2.3"
   },
-  "peerDependencies": {},
   "dependencies": {
     "@babel/core": "^7.13.16",
     "@babel/runtime": "^7.13.17",
