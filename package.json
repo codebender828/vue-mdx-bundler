@@ -18,8 +18,8 @@
   "scripts": {
     "bootstrap": "lerna bootstrap --use-workspaces",
     "dev:mdx": "yarn workspace vue-mdx-bundler dev",
-    "build:mdx": "yarn workspace vue-mdx-bundler build",
-    "build:vite": "yarn workspace vite-plugin-mdx-vue build",
+    "build:mdx": "yarn workspace @codebender828/vue-mdx-bundler build",
+    "build:vite": "yarn workspace @codebender828/vite-plugin-mdx-vue build",
     "docs": "yarn workspace docs dev",
     "docs:build": "yarn workspace docs build",
     "lint": "eslint packages/ --fix",
