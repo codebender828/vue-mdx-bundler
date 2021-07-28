@@ -17,7 +17,7 @@
     "mdx",
     "vue"
   ],
-  "description": "desc",
+  "description": "Vue MDX Bundler",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "type": "module",
